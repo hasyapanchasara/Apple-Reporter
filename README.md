@@ -67,6 +67,7 @@ Reporter.propertiesReporter.jar
 Using Reporter.properties
 
 UserId= your apple account email address
+
 Password= your apple account password
 
 Mode=Robot.xml
